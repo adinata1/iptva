@@ -4,7 +4,12 @@
 ==========================================
 // Lokal
 
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI 
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-HD/sa_dash_vmx/RCTI-HD.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -68,17 +73,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.m
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 https://yt.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 group-title="Lokal",NET TV Backup
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI 
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-HD/sa_dash_vmx/RCTI-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
