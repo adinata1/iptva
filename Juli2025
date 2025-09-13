@@ -403,15 +403,6 @@ https://wahyu1ptv.pages.dev/SkySportBundesliga-HD.m3u8
 
 ===================================
 
-#EXTINF:-1 group-title="Lokal" tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-
-#EXTINF:-1 group-title="Lokal" tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Lokal",Trans 7 Backup
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1440823282_b744100_sleng.m3u8
