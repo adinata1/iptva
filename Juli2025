@@ -766,5 +766,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.
 
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://i.imgur.com/9LNJXe3.png" group-title="Cplay2",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+
+#EXTINF:-1 tvg-id="hbo-hits" tvg-logo="https://i.imgur.com/tGSLZWz.png" group-title="Cplay2",HBO Signature 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
