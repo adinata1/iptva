@@ -787,36 +787,87 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", CT SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", CARI-CH-YANG-SUPPORT JANGAN SALAHIN JARINGAN AJA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://tvri.cob.web.id/hls2/index.m3u8
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", vivo D-SPORTS
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", BBC ONE (Kilat Live)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.tvlivegoogle.vip/UK_BBC_1_TV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", iTV1 (Kilat Live)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.tvlivegoogle.vip/UK_ITV_1_TV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", TSN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", JOJ SPORTS
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", TVRI NASIONAL (Digital)
+https://pildun.cob.web.id/hls2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", IRIB TV 4K
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/iribhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", KLANSPORTS (Match 1) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", RTB GO LIVE
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", KLANSPORTS (Match 2) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", RTB ANEKA
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", DAZN 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838108.ts
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", TVRI Sport
-http://013tv.com:8080/F33848/cbd9779b/166686
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", DAZN 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838106.ts
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", FUSBALL TV HD
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", FUSSBALL TV FHD
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", CCTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://107.150.60.122/live/cctv5p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", CCTV 5+
+http://107.150.60.122/live/cctv5hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", (Tsn 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838103.ts
+http://opplextv.cyou:8080/nasir6160/nasir/349014
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", (Tsn 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838102.ts
+http://opplextv.cyou:8080/nasir6160/nasir/349015
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", (Tsn 3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpv8x3tAP0-CWHfpKoj-o4Rz/m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/349016
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", (Tsn 4)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuW1Fs344n15KEeKaKxZwJ1/m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/349017
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="World Cup 2026", (Tsn 5)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpss0oU8VkGW-VxjeNebejIG/m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/349018
 
 ================================================ HBO =====================================================
 
