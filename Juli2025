@@ -909,4 +909,9 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://colatv65.live/assets/images/logo.png" group-title="FEED BOLA",BLV FANTA 
+https://live05.meung.app/live/16226575.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://colatv65.live/assets/images/logo.png" group-title="FEED BOLA",BLV  GIA LANG
+https://live05.meung.app/live/14830711.m3u8
+
 
