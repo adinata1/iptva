@@ -920,3 +920,33 @@ https://live05.meung.app/live/16226575.m3u8
 https://live05.meung.app/live/14830711.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HC69bTvTgy6Q-FhyyryjElSvdd26NLPq0vNemA1OYQ&s" group-title="ASEAN CUP 2026",RCTI R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HC69bTvTgy6Q-FhyyryjElSvdd26NLPq0vNemA1OYQ&s" group-title="ASEAN CUP 2026", MNCTV R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HC69bTvTgy6Q-FhyyryjElSvdd26NLPq0vNemA1OYQ&s" group-title="ASEAN CUP 2026", GTV R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HC69bTvTgy6Q-FhyyryjElSvdd26NLPq0vNemA1OYQ&s" group-title="ASEAN CUP 2026",True Sports 2
+http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2
+
